@@ -1,0 +1,10 @@
+{
+    "access_token": "ya29.a0Ad52N3-1UcsPbhZ7_Z3RhcOH-M5iLbdmYfnoqR24wnB8Gs5afvzjf4y7hW9Z90ZMJI7Czv2owCyAXRAr7Sx54rWVqIXTDJYSl8qWPBtaN3vGWaCE6mbKepCuBA-qYPfSPW77f5BZoO6U2C_B8FEvlyCmES96itr5dZZ8aCgYKAZUSARASFQHGX2MigYD6PsoumKV0TWTGag072A0171",
+    "refresh_token": "1//0gX30_QfRg2FSCgYIARAAGBASNwF-L9Ir82OSLbElFRNEuXSMN4iWnPzC_1UmwDRkc8ZBNSterzz9127goDL_Y9jQhSEWImZUZ-w",
+    "client_id": "517213762906-f3jcpid8ape23kooh0pca143a4e7igmj.apps.googleusercontent.com",
+    "client_secret": "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",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "scopes": [
+        "https://mail.google.com/"
+    ]
+}

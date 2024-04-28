@@ -1,0 +1,12 @@
+{
+    "access_token": "ya29.a0Ad52N380Fi9FdJkpD6lnCem-QGQ5qAZXpJu1ofIot7YHc4H_c3U3Sb4WS1-qUDOq8r8EE8OjdQUHOc_1-lGDzBsMIR-Y38QH4081gfl4NvRcQtT1HhFiYhv2nyBUKnHr9tGrLbnkmPaoX5wBb1qO0ZDLBZh2gTtBQNtDaCgYKAXISARASFQHGX2MijYEuTn_-wbJLbkTnw6Ch_A0171",
+    "refresh_token": "1//0gYy9_K7q52DNCgYIARAAGBASNwF-L9IrUzMqsK7fcpP3QxWVknLAXVLXOZ6N7Ks1F7WAv7ZL6rDxxYjouJIanmK5uwDJb9BpWb8",
+    "client_id": "511681478653-q5o3ucfk45mui89jt2apr7e7l650ehpr.apps.googleusercontent.com",
+    "client_secret": "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",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "scopes": [
+        "https://www.googleapis.com/auth/drive",
+        "email",
+        "profile"
+    ]
+}
